@@ -62,7 +62,9 @@ This is a food sharing website that includes verious type of food information.
 - Express.js: Web application framework for Node.js.
 - MongoDB: NoSQL database for storing food items and user data.
 
-### Authentication & Security:
+### Authentication
+- Firebase
+
 
 
 #### Hosting:
